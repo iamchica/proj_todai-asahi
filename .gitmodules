@@ -1,3 +1,6 @@
 [submodule "/Users/Chika/proj_todai-asahi/build_input"]
 	path = /Users/Chika/proj_todai-asahi/build_input
 	url = https://github.com/iamchica/data_todai-asahi.git
+[submodule "build_code/data_todai-asahi"]
+	path = build_code/data_todai-asahi
+	url = https://github.com/iamchica/data_todai-asahi.git
